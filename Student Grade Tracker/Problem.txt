@@ -1,0 +1,7 @@
+                                  Student Grade Tracker
+
+Scenario: A small class of 4 Students. Each Student has given 3 exams.
+
+what do's:
+    1) Create an 1D Array for names and 2D Array for marks
+    2) Input for user to search names of student and their grades

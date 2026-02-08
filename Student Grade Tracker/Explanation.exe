@@ -1,0 +1,14 @@
+First I made an integer dataType variable named number_of_students. 
+I took a 1D array for name of students and defined it's size by the variable number_of_students.
+so, I can change the value in the variable when necessary and the 1D array's size is defined by the variable's value.
+
+Then on 2D array, I took number_of_students as size for row and 3 as size for columns it represents the number of exams they gave.
+then stored marks of each student in 3 exams.
+
+I created an input search_name to find names in the 1D array
+I created a boolean dataType variable named found and by default I kept it's value false.
+
+then I created a for-loop to search for the name in the array.
+I created a conditional statement if search_name gets equal to the name stored in 1D array then found = true.
+and it prints the marks of the searched student's name stored in 2D array.
+if not found it prints "not found".
