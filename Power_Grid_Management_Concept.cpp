@@ -41,4 +41,5 @@ int main() {
     catch (...){
         cout << "An unexpected error occurred. Please investigate." << endl;
     }
+    return 0;
 }
